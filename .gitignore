@@ -7,3 +7,4 @@
 sync-*.sh
 tmp.txt
 my_log.txt
+.learn-venv*
